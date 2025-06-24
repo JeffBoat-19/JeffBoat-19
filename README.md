@@ -1,6 +1,7 @@
 # Hi there, I'm Jeffery Boateng! 👋
 
-![Banner Image](https://chat.openai.com/mnt/data/A_GitHub_profile_banner_digital_graphic_for_Jeffer.png)
+![Banner Image](![Uploading file_00000000b5706230a7b0e162f6422cb6.png…]()
+)
 
 ## About Me 🚀
 
