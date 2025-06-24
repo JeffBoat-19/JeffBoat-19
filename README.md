@@ -1,6 +1,6 @@
 # Hi there, I'm Jeffery Boateng! 👋
 
-![Banner Image](![Uploading file_00000000b5706230a7b0e162f6422cb6.png…]()
+![Banner Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqiNpRo0_11OqgVAOprcdqnvoxUv_RminHAA&s)
 )
 
 ## About Me 🚀
@@ -18,10 +18,6 @@ I'm a passionate **Frontend Development** with experience in **HTML, CSS, JAVASC
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
-
 
 
 ## Get in Touch 📬
