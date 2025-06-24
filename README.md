@@ -1,7 +1,6 @@
 # Hi there, I'm Jeffery Boateng! 👋
 
 ![Banner Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqiNpRo0_11OqgVAOprcdqnvoxUv_RminHAA&s)
-)
 
 ## About Me 🚀
 
